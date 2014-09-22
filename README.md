@@ -2,6 +2,8 @@
 
 This library provides an 'interval' feature for [cl-async](https://github.com/orthecreedence/cl-async).
 
+<b>NOTE: This library had merged into [cl-async](https://github.com/orthecreedence/cl-async) v0.5.4.</b>
+
 ## Usage
 
 ```common-lisp
