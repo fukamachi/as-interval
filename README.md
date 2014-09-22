@@ -45,7 +45,7 @@ Copyright (c) 2014 Eitaro Fukamachi (e.arrows@gmail.com)
 
 ## License
 
-Licensed under the BSD 2-Clause License.
+Licensed under the MIT License.
 
 ## See Also
 

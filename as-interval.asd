@@ -15,7 +15,7 @@
 (defsystem as-interval
   :version "0.0.1"
   :author "Eitaro Fukamachi"
-  :license "BSD 2-Clause"
+  :license "MIT"
   :depends-on (:cl-async)
   :components ((:file "src/as-interval"))
   :in-order-to ((test-op (test-op as-interval-test))))
